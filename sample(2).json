@@ -1,0 +1,23 @@
+{
+    "body": {
+        "metaData": {
+            "format": "PDF 1.4",
+            "title": "",
+            "author": "",
+            "subject": "",
+            "keywords": "",
+            "creator": "",
+            "producer": "",
+            "creationDate": "",
+            "modDate": "",
+            "trapped": "",
+            "encryption": null
+        },
+        "pages": [
+            {
+                "page_number": 1,
+                "content": []
+            }
+        ]
+    }
+}
