@@ -1,4 +1,4 @@
-#This is the main working code 
+#This is the main working code without api
 import json
 import fitz
 from datetime import datetime
@@ -69,7 +69,7 @@ pdf_path = "infosys-esg-report-2021-22.pdf"
 json_output = convert_pdf(pdf_path)
 
 # Save the JSON output to a file
-output_file = 'infosys-esg-report-201-22.json'
+output_file = 'infosys-esg-report-26-10-2023-22.json'
 with open(output_file, 'w', encoding='utf-8') as json_file:
     json.dump(json_output, json_file, ensure_ascii=False, indent=4)
 

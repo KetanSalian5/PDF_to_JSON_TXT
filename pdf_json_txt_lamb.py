@@ -1,4 +1,4 @@
-#This is the code will help use to collected the data from s3 bucket url and then run in lambda combine both url
+#This is the code will help use to collected the data from s3 bucket url and then run in lambda combine 
 import fitz
 import json
 from datetime import datetime
